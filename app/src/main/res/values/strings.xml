@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPStudy</string>
+    <string name="prompt_empty">Oh~, it empty!</string>
+    <string name="prompt_error">Sorry, you have or more error!</string>
+    <string name="prompt_loading">Loading…</string>
+    <string name="data_network_error">网络错误！</string>
+</resources>
